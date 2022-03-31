@@ -1,0 +1,1 @@
+Git branches are versions of a project that can be merged at a later time.
